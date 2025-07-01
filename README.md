@@ -14,4 +14,4 @@ How to Run
 Make sure Python is installed. Then:
 
 ```bash
-python guess.py
+python 26_guesstheno_game.py
